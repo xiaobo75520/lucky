@@ -1,4 +1,4 @@
 <?php
-echo "This is inde";
+echo "This is index";
 
 ?>
