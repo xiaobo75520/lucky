@@ -1,4 +1,4 @@
 <?php
-echo "This is xiaobo";
+echo "This is index";
 
 ?>
