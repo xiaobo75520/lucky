@@ -1,4 +1,4 @@
 <?php
-echo "This is index";
+echo "This is indexs";
 
 ?>
